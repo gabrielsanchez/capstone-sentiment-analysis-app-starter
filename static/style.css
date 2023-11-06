@@ -1,1 +1,23 @@
 
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+.jumbotron {
+    margin-top: 20px;
+    background-color: white;
+}
+textarea {
+    resize: none;
+}
+.btn-primary {
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.chart-title {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 'bold';
+}
